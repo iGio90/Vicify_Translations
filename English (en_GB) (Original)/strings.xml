@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Voicify</string>
+    <string name="app_name_uppercase">VOICIFY</string>
+    <string name="voice_actions">Voice actions</string>
+    <string name="create_actions">Create actions</string>
+    <string name="create_actions_plus">+ Create actions</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="hello">Hello</string>
+    <string name="sure">Are you sure?</string>
+    <string name="unlock">Purchase premium preferences</string>
+    <string name="unlock_purchased">Thanks for purchasing premium preferences!</string>
+    <string name="actions">Actions</string>
+
+    <string name="error_duplicate_name">This action is already in my database</string>
+    <string name="error">Error</string>
+    <string name="no_voice_support">Google voice service is required in order to use voicify. You can download Google search for free from the play store! Do you want to install Google Search now?</string>
+
+    <string name="scroll_down">Scroll down</string>
+
+    <!-- Init -->
+    <string name="init_hello">Hello…</string>
+    <string name="init_whoim">I\'m voicify!</string>
+    <string name="init_name">What\'s your name?</string>
+    <string name="init_name_cancel">Please… I need a name, or a nickname, in order to work</string>
+    <string name="init_right">Is that right?</string> <!-- Format will be: Yourname ... Is that right? -->
+    <string name="init_edit_name">Edit your name</string>
+    <string name="init_name_empty">Name can\'t be empty</string>
+    <string name="init_show_tutorial">Do you want to see a little tutorial that explain you how to use me?</string>
+    <string name="init_tut_create">First of all you need to create some actions!</string>
+    <string name="init_tut_create_one">When you reach my main screen, scroll down to show my settings</string>
+    <string name="init_tut_create_two">You\'ll find a button called "create actions"</string>
+    <string name="init_tut_create_three">Tap that button and assign me some actions!</string>
+    <string name="init_tut_use">Once you have created some actions you are ready to use me!</string>
+    <string name="init_tut_use_one">Tap the big microphone to interact with me and say your actions!</string>
+    <string name="init_tut_call_me">In my settings, you\'ll find some different way to interact with me!</string>
+    <string name="init_tut_call_me_one">You can use your assist key or enable an icon in the app drawer!</string>
+    <string name="init_tut_premium">You can also purchase premium pack directly from my main screen</string>
+    <string name="init_tut_premium_one">This pack will allow you to unlock some features such as floating shortcut or widget!</string>
+    <string name="init_tut_done">You are now ready to use me!</string>
+    <string name="init_tut_done_one">Don\'t forget to rate me on the store, or to contact my developer for any issues!</string>
+
+    <string name="goodmorning">Good morning</string>
+    <string name="goodafternoon">Good afternoon</string>
+    <string name="goodevening">Good evening</string>
+    <string name="goodnight">Good night</string>
+
+    <!-- Hints -->
+    <string name="hint_touch_to_delete">Touch an action to delete</string>
+    <string name="delete_confirmation">Do you want to delete the action assigned to:</string>
+    <string name="actions_empty">Action list is empty. Do you want to add some actions now?</string>
+    <string name="android_actions">Android actions</string>
+    <string name="add_actions">Actions manager</string>
+    <string name="add_actions_for">Add an action for</string> <!-- I.E: Add an action for "speechtotext" -->
+    <string name="actions_added">successfully added</string> <!-- I.E: "speechtotext" successfully added -->
+    <string name="add_another">Do you want to add another action?</string>
+    <string name="select_action">Select an action</string>
+    <string name="gestures_application">Applications</string>
+    <string name="gestures_call">Quick call</string>
+    <string name="gestures_sms">Quick SMS</string>
+    <string name="gestures_intents">Intents</string> <!-- Intents is a common android word and should not be translated -->
+    <string name="gestures_action_home">Home</string>
+    <string name="gestures_action_recent">Recent</string>
+    <string name="gestures_action_ringer">Ringer mode</string>
+    <string name="gestures_intents_new_email">New email</string>
+    <string name="gestures_intents_new_email_blank">Clean email</string>
+    <string name="gestures_intents_new_email_prefix">Prefixed contact email</string>
+    <string name="gestures_intents_new_email_prefix_title">Insert email address</string>
+    <string name="screen_state_wifi">Wifi</string>
+    <string name="screen_state_bluetooth">Bluetooth</string>
+    <string name="screen_state_data">Data</string>
+    <string name="screen_state_sync">Sync</string>
+    <string name="your_actions">Manage actions</string>
+    <string name="predictions">Predictions</string>
+    <string name="predictions_tap">Tap a prediction to assign an action</string>
+    <string name="no_action_found">No action found. Did you mean…</string>
+    <string name="dialog_create_title">No action found</string>
+    <string name="dialog_create_msg">Do you want to create an action for:</string> <!-- This will be followed by action name: IE. Do you want to create an action for: BLABLA? -->
+
+    <!-- SETTINGS -->
+    <string name="prefs_title">Preferences</string>
+    <string name="premium_prefs_title">Premium preferences</string>
+    <string name="prefs_launcher">Launcher</string>
+    <string name="prefs_launcher_summary">Create a launcher icon in your app drawer that will allow you, once tapped, to use your actions</string>
+    <string name="prefs_notification">Quick notification</string>
+    <string name="prefs_notification_summary">Create a quick notification that will allow you, once tapped, to use your actions</string>
+    <string name="prefs_floating_toucher">Floating shortcut</string>
+    <string name="prefs_floating_toucher_summary">Crate a floating shortcut that will allow you, once tapped, to use your actions</string>
+    <string name="prefs_floating_long">Floating long tap</string>
+    <string name="prefs_floating_long_summary">Long tap on floating shortcut to pause</string>
+    <string name="prefs_persistent_floating">Persisten floating shortcut</string>
+    <string name="prefs_persistent_floating_summary">Start the floating shortcut at boot</string>
+    <string name="prefs_widget">Widget</string>
+    <string name="prefs_widget_summary">Enable a little 1x1 widget that will allow you, once tapped, to use your actions. Note: this will not create the widget on your homescreen. If this option is enabled the widget will appear in the widget drawer</string>
+    <string name="prefs_quick_search">Quick search</string>
+    <string name="prefs_quick_search_summary">Allows you to quickly search dynamic content with google using your voice</string>
+    <string name="prefs_quick_search_keyword">Quick search keyword</string>
+    <string name="prefs_quick_search_keyword_summary">This is the default quick search keyword.\nI.E: \'yourkeyword android\' will search for \'android\' if \'android\' is preceded by your keyword</string>
+
+    <string name="floating_pause_msg">Floating shortcut is in pause</string>
+    <string name="close">Close</string>
+    <string name="launch">Launch</string>
+
+
+    <plurals name="countdown_seconds">
+        <item quantity="one">Dismissing in 1...</item>
+        <item quantity="other">Dismissing in %d...</item>
+    </plurals>
+
+    <string name="countdown_dismissing">Dismissing</string>
+
+    <string name="about">About</string>
+    <string name="translations">Translations</string>
+    <string name="community">Voicify community</string>
+    <string name="our_apps">Our applications</string>
+</resources>

@@ -1,0 +1,22 @@
+Title: Voicify - Voice actions (Translate only: Voice actions)
+
+** FOR ANY PROBLEM: SEND US AN EMAIL! WE WILL ALWAYS REPLY! **
+
+Voicify - Control your device with voice actions!
+
+This is not an application like Siri or S-Voice! Voicify doesn't interact or reply your questions! It will execute your commands!
+
+Setup your voice actions and you are ready to control your device with voice commands!
+
+Features:
+
+* Custom voice actions and commands
+* Choose between different actions from enable/disable wifi, data, sync, bluetooth etc to simply launch applications or a quick call/sms
+* Say whatever you want to voicify, if there isn't any action assigned to your command, you can quickly add it through an easy dialog!
+* Access voicify through an additional (optional) launcher icon
+* Premium users will also have the power to enable a quick widget or a floating shortcut!
+* Quick search your content through a specific customizable keywork!
+
+Voicify doesn't require root access and it's compatible with all stock and custom ROMs!
+
+Keywords: Voice, Voice Actions, Siri, S-Voice, Commands, Control
